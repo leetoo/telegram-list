@@ -4,6 +4,9 @@
 
 Уважаемые коллеги, если у вас есть интересные каналы, группы, чаты, или боты, пожалуйста присылайте свои предложения и пулреквесты. Мы с большим удовольствием расширим наш полезный для всех список.
 
+* [Telegram Group List](https://t.me/listnews) — Официальный канал новостей этого списка групп
+* [Telegram Group List Chat](https://t.me/grouplst) — Чат списка: обсуждения, предложения и идеи.
+
 ## Каналы
 
 ##### Новости
@@ -24,6 +27,7 @@
 * [LSA](https://t.me/networklsa) — Информационный канал о сетевых технологиях и NetDevOps (новости, книги, презентации)
 * [Apache Hadoop stack](https://t.me/hadoopusers) — Новости сообщества Apache Hadoop
 * [Tehnojam.pro](https://t.me/tehnojam) — Лента публикаций сайта ТехноДжем.
+* [QUANTUM QUINTUM](https://t.me/quantumquintum) — Канал Константина Кичинского (Technical Evangelism Lead в Microsoft), короткие заметки про Microsoft и технологии
 
 ##### Каналы по программированию и разработке ПО
 * [Evil Martians](https://t.me/evilmartians) — Новости от Злых Марсиан
@@ -35,11 +39,12 @@
 * [TM Feed](https://t.me/tmfeed) — Лента публикаций с Хабра и Гиктаймс
 * [Tproger Channel](https://t.me/tproger_official) — Лента новостей от сообщества "Типичный программист"
 * [Spalmalo Tech Talk](https://t.me/spalmalo_tt) — Спалмало (spalmalo.com) находит и шарит с вами всякие полезности
+* [Technologique](https://t.me/technologique) — "Нажми на кнопку, получишь результат": Технологии программирования и разработки
 * [∏ρØƒuñçτØρ Øπτµç∑](https://t.me/libmustdie) — Авторский канал о программировании (Пэйперы, видео, интересные репозитории)
+* [Microsoft Developer](https://t.me/msdnru) — Официальный канал сообщества Microsoft для разработчиков и всех, кто интересуется новыми технологиям
 
 ##### Каналы информации по Информационной безопасности
 * [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности
-* [Technologique](https://t.me/technologique) — Various aspects of FOSS technologies, Linux, coding, development, infrastructure solutions, DevOps
 * [Hacker news Ru](https://t.me/HakerNews) — Новости информационной безопасности
 * [Hacker News En](https://t.me/hacker_news_feed) — Hacker News (english)
 * [IT Security Alerts](https://t.me/itsecalert) — Оповещение о крупных уязвимостях в софте и сервисах
@@ -152,6 +157,7 @@
 * [pro.rust](https://t.me/proRust) — Чат про Rust
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [noobrank](https://t.me/noobrank) — Решаем вместе задачки по программированию для начинающих (hackerrank и аналогичные)
+* [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
 
 ##### Фреймворки, среды разработок, библиотеки
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x
@@ -241,6 +247,7 @@
 
 ##### Сообщества
 * [IT PPL](https://t.me/spbitpeople) – IT People: общение айтишников и про айти, и не про айти ;-)
+* [Microsoft Developer Chat](https://t.me/msdevchat) – Сообщество разработчиков под платформу Microsoft
 * [קהילה יהודית](https://t.me/ru_jews) — Еврейская община / Виртуальная синагога
 * [SPbLUG](https://t.me/spblug) — Чат Saint-Petersburg Linux User Group
 * [Piter Py Conference](https://t.me/PiterPy) — Ежегодная Python конференция Piter Py
@@ -312,6 +319,7 @@
 * [annode frontend](https://t.me/annode_frontend) — Чат по Frontend. Дизайн, верстка, фреймворки для фронтенда и много другое.
 * [annode backend](https://t.me/annode_backend) — Чат по Backend. CMS/CMF и компоненты для них, фреймворки для бекенда, базы данных и все остальное по данной тематике.
 * [gik.me](https://t.me/gikmechat) — Чат подкаста gik.me
+* [RCmodels](https://t.me/RCmodels) — Хоббийный чат про летающие радиоуправляемые модели.
 
 -------------
 
@@ -327,6 +335,7 @@
 * [@trello_bot](https://t.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм
 * [@bitbucket_bot](https://t.me/bitbucket_bot) — Интеграция bitbucket в телеграм
 * [@integram_bot](https://t.me/integram_bot) — Интеграция разных сервисов по разработке ПО в телеграм
+* [@ChatbroBot](https://t.me/chatbrobot) — Позволяет встроить Telegram чат на сайт
 
 ##### Прочие боты
 * [@ImageSearchBot](https://t.me/ImageSearchBot) — Бот поиска картинок от Яндекса
