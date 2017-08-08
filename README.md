@@ -101,6 +101,7 @@
 ##### Фреймворки, среды разработок, библиотеки
 * [Angular.js](https://telegram.me/angular_js) -- Чат про AngularJS 1.x
 * [Angular 2](https://telegram.me/angular2) -- Чат про AngularJS 2.x
+* [Spring Framework and more](https://t.me/springframeworkio) — Русскоязычный Чат о Spring Framework
 * [Django](https://telegram.me/pydjango) -- Чат про Django
 * [Joomla! по-русски](https://telegram.me/joomlaru) -- Чат про Joomla!
 * [Laravel](https://telegram.me/laravel_pro) -- Чат про Laravel (~150)
