@@ -286,6 +286,7 @@
 * [1C](https://t.me/ru_1c) — Чат про "1С:Предприятие"
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x
 * [Angular 2](https://t.me/angular2) — Чат про AngularJS 2.x
+* [Spring Framework and more](https://t.me/springframeworkio) — Русскоязычный Чат о Spring Framework
 * [Django](https://t.me/pydjango) — Чат про Django
 * [Joomla! по-русски](https://t.me/joomlaru) — Чат про Joomla!
 * [Laravel Oficial](https://t.me/laravel_pro) — Чат про Laravel (~480 человек)
