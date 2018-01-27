@@ -101,6 +101,7 @@
 * [code_news](https://t.me/code_news) — Канал о Программировании, технологиях и алгоритмах. Только O(log n), только хардкор.
 * [ES.next News](https://t.me/esnextnews) — Еженедельная рассылка новостей про Javascript
 * [Fsharp](https://t.me/F_Sharp) — Новости про F#.
+* [For Developers](https://t.me/fordevelopers) — Подборка статей и книг посвященных BigData,Java,Scala,Python,C++,NoSQL,BlockChanin
 * [Internet of things Community](https://t.me/IoT_community) — Канал IoT сообщества. Новости Интернета вещей и анонсы встреч сообщества.
 * [Экстраполяция IT](https://t.me/itextrapolation) — Авторский канал об IT, аутсорсе, продуктах и программировании.
 * [iOS Good Reads](https://t.me/iosgr) — Ежедневная порция материалов по iOS разработке
